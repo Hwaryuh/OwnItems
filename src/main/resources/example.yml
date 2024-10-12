@@ -1,0 +1,6 @@
+material: IRON_SWORD
+amount: 1
+display_name: "테스트"
+lore:
+  - "§f테스트 설명"
+custom_model_data: 12345

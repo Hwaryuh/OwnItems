@@ -1,0 +1,9 @@
+name: OwnItems
+version: '0.1-TEST'
+main: kr.hwaryuh.items.Main
+api-version: '1.20'
+commands:
+  oi.give:
+  oi.reload:
+  oi.holding:
+  oi.random:
